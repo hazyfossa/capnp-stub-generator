@@ -8,7 +8,7 @@ Useful for IDE auto-completion and static type checking.
 Clone and install with pip:
 
 ```Python
-pip install capnp-stub-generator
+pip install git+https://github.com/hazyfossa/capnp-stub-generator.git@main
 ```
 
 Run on a set of files:
